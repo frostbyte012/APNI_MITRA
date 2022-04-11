@@ -1,4 +1,4 @@
-<h1>APNI MITRA<\h1>
+<h1>APNI MITRA</h1>
 <img src="" alt="Your image url" width="600" height="1000">
 <h2>Tech Used:<\h2>
 <h3>
