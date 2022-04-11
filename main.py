@@ -7,8 +7,6 @@ face_classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 classifier =load_model('model.h5')
 
 emotion_labels = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']
-
-# cap = cv2.VideoCapture(r"D:\Development\AppDevResources\PlusMe\Videos Resources\271430109_665790047929604_4257369815197096621_n.mp4")
 cap = cv2.VideoCapture(0)
 cap. set(cv2.CAP_PROP_FPS,120)
 
